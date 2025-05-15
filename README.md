@@ -32,7 +32,7 @@
 
 2. **Clone & Set Up Laddu.ai**  
    ```bash
-   git clone https://github.com/yourusername/laddu.ai.git
+   git clone https://github.com/pesnik/laddu.ai.git
    cd laddu.ai
    pip install -r requirements.txt
    ```  
