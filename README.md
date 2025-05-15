@@ -1,8 +1,6 @@
 # **Laddu.ai** 🍡  
 *A sweet, motivational AI companion that spoils you with love, code breaks, and laddus!*  
 
-![Laddu.ai Banner](https://via.placeholder.com/1200x400?text=Laddu.ai+-+Eat.%20Code.%20Be%20Happy.)  
-
 **Laddu.ai** is a playful, Banglish-speaking AI chatbot powered by **LLMs (Llama/Mistral via Ollama)** that encourages you to take breaks, stay happy, and—of course—eat **laddus**! Whether you're coding, studying, or just stressed, Laddu.ai will sweeten your day with fluffy, motivational responses.  
 
 ✨ *"Boss, eto code kore ki hobe? Cholen ekta laddu khai!"* ✨  
